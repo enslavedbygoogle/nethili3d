@@ -1,0 +1,1 @@
+A powerful Blender 3D add-on for generating highly accurate 3D human heads and facial meshes directly from 2D photographs. Features intuitive mesh pinning, automatic texture extraction, and seamless topology ready for rigging and animation.
